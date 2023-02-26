@@ -2,6 +2,6 @@ const word = document.querySelector(".text");
 const btn = document.querySelector(".btn");
 
 btn.addEventListener("click", () => {
-  word.innerHTML = "clack";
-  btn.innerHTML = "clack";
+  word.innerHTML = "click";
+  btn.innerHTML = "click";
 });
